@@ -26,6 +26,6 @@
   </a>
 </p>
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudo-franklin&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="fr4nkln11"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-franklin&show_icons=true&theme=gruvbox&locale=en&hide_border=true" alt="fr4nkln11"/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudo-franklin&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruce-pain&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="fr4nkln11"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bruce-pain&show_icons=true&theme=gruvbox&locale=en&hide_border=true" alt="fr4nkln11"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bruce-pain&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
