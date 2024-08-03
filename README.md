@@ -22,7 +22,7 @@
 <h3 align="center">Favourite Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,github,js,django,mint,md,python,c,neovim&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,svelte,md,python,django,fastapi,c,postgres,git,bash,github,&theme=dark&perline=3" />
   </a>
 </p>
 
