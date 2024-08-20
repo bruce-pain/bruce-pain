@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/builtbyfranklin" target="blank"><img src="https://img.shields.io/twitter/follow/builtbyfranklin?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
-- 🔭 I’m currently working on a Task management API built with Django.
+- 🔭 I’m currently working on **Convey**, a suite of AI powered tools.
 
 - 🌱 I’m currently learning **Python backend development**
 
