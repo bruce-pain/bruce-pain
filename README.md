@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/builtbyfranklin" target="blank"><img src="https://img.shields.io/twitter/follow/builtbyfranklin?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
-- 🔭 I’m currently working on **Tifi.tv**, a suite of AI powered tools.
-
-- 🌱 I’m currently learning **Python backend development**
+- 🔭 I’m currently working on [**Kwiki-ai**](https://github.com/bruce-pain/kwiki-ai).
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **ikehfranklin06@gmail.com**
-
-- ⚡ Fun fact **I have been coding in Python for over 3 years now, but I've never been consistent enough to say I actually have 3 years of experience LOL!**
 
 
 <h3 align="left">Connect with me:</h3>
