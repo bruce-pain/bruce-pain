@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Franklin.</h1>
-<h3 align="center">A passionate Python programmer and computer science enthusiast from Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/builtbyfranklin" target="blank"><img src="https://img.shields.io/twitter/follow/builtbyfranklin?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
