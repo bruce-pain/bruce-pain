@@ -31,7 +31,7 @@
 <h3 align="center">Others (Frameworks and languages)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,rust,c,&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=opencv,rust,c&theme=dark&perline=3" />
   </a>
 </p>
 <h3 align="center">Tools</h3>
