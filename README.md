@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/builtbyfranklin" target="blank"><img src="https://img.shields.io/twitter/follow/builtbyfranklin?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
-- 🔭 I’m currently working on [**Kwiki-ai**](https://github.com/bruce-pain/kwiki-ai).
+- 🔭 I’m currently working on [**Kwiki-ai**](https://github.com/bruce-pain/kwiki-ai-be).
 
 - 💬 Ask me about **Python**
 
